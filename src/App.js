@@ -74,7 +74,9 @@ export default class indexBarData extends React.Component{
 
   render(){
     return (
-      <div id='main' style = {{height: 400, width: 700}}></div>
+      <div id='main' style = {{height: 400, width: 800}}>
+      </div>
+
     )
   }
 }
